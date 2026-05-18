@@ -18,11 +18,11 @@
 
 ## 📘 Use Cases
 
-- Data cleansing & preprocessing
-- CRM / customer database validation
-- Carrier identification
-- Type identification
-- Number-format verification
+- Data cleansing & preprocessing.
+- CRM / customer database validation.
+- Carrier identification.
+- Type identification.
+- Number-format verification.
 
 This tool is intended **solely for legitimate data-processing and validation purposes**.
 
@@ -30,7 +30,7 @@ This tool is intended **solely for legitimate data-processing and validation pur
 
 ## 🤝 Get in Touch
 
-if you want to purchase,
+if you want to purchase ,
 
 - Email     : elowenreply@gmail.com
 - Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
