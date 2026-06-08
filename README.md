@@ -6,23 +6,23 @@
 
 ## 🚀 Features
 
-- Efficiently processes large datasets with optimized number-checking performance.
-- Provides reliable validation for U.S. phone number formats and metadata.  
-- Identifies Mobile, Landline, VOIP, Toll-Free, and other number categories. 
-- Supports major U.S. carriers including T-Mobile, Verizon, AT&T, and more. 
-- Allows validation of large lists of numbers for analytics, data hygiene, and database cleanup.
-- An optional high-throughput mode designed for enterprise or large-scale data processing environments.
-- Built for consistent performance with a focus on accuracy and uptime.
+- Efficiently processes large datasets with optimized number-checking performance
+- Provides reliable validation for U.S. phone number formats and metadata
+- Identifies Mobile, Landline, VOIP, Toll-Free, and other number categories
+- Supports major U.S. carriers including T-Mobile, Verizon, AT&T, and more
+- Allows validation of large lists of numbers for analytics, data hygiene, and database cleanup
+- An optional high-throughput mode designed for enterprise or large-scale data processing environments
+- Built for consistent performance with a focus on accuracy and uptime
 
 ---
 
 ## 📘 Use Cases
 
-- Data cleansing & preprocessing.
-- CRM / customer database validation.
-- Carrier identification.
-- Type identification.
-- Number-format verification.
+- Data cleansing & preprocessing
+- CRM / customer database validation
+- Carrier identification
+- Type identification
+- Number-format verification
 
 This tool is intended **solely for legitimate data-processing and validation purposes**.
 
